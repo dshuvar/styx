@@ -1,0 +1,17 @@
+{
+  "Gemfile": "0b0ef34a57239868636b26141342423f",
+  "LICENSE": "e3fc50a88d0a364313df4b21ef20c29e",
+  "README.md": "c0a3cbacc3fe77a94822f6aebda479ff",
+  "Rakefile": "158b889261acd98356f6e0f2a031b6b9",
+  "examples/init.pp": "918dab3f639d29eb1d4ca71d16f569a1",
+  "manifests/config.pp": "33c1df5a2b61c4fd4d5a1a7cc1f308b7",
+  "manifests/init.pp": "3a54985f8f7d9d73178b9fa87ab9d830",
+  "manifests/install.pp": "9b586fefaa3190bcda9b949f278c091b",
+  "manifests/params.pp": "d41d8cd98f00b204e9800998ecf8427e",
+  "manifests/service.pp": "31b764186de6d2cb0d9f6358ee02ccac",
+  "metadata.json": "7f75c8048cbd37c7093c73162582a8cb",
+  "spec/classes/init_spec.rb": "c8ee9114491cebb07328a39861dcf6b9",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "templates/default.erb": "8304e780c43d4a606f695c8965f48299",
+  "templates/sshd_config.erb": "f773331c52bd971dc17deec464ebe9db"
+}
