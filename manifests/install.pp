@@ -1,5 +1,5 @@
 # == Class: styx::install
-class styx::install inherits styx {
+class styx::install {
 
   package { 'openssh-server':
     ensure => installed,

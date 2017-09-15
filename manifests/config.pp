@@ -1,5 +1,5 @@
 # == Class: styx::config
-class styx::config inherits styx {
+class styx::config {
 
   file { '/etc/ssh/sshd_config':
     ensure  => file,
